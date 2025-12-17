@@ -246,10 +246,10 @@ export const projects = [
     title: "Zoom Clone",
     description:
       "A real-time video conferencing application built with WebRTC, Socket.IO, and Node.js, featuring video/audio calls, chat, screen sharing, and secure room creation.",
-    image: notepad,
+    // image: notepad,
     tags: ["Javascript", "Express JS", "React JS", "Node.js", "NPM", "Validation", "WebRTC", "Websocket"],
-    github: "https://github.com/codingmastr/cmtk-email-validator",
-    webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+    github: "",
+    webapp: "",
   },
   {
     id: 4,
