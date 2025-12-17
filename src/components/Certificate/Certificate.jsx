@@ -92,7 +92,7 @@ const Certificates = () => {
                         {/* Close Button */}
                         <button
                             onClick={() => setSelected(null)}
-                            className="absolute top-3 right-3 bg-[#8245ec] text-whitew-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center text-lg sm:text-xl font-bold hover:scale-110 transition z-50"
+                            className="absolute top-1 right-1 bg-[#8245ec] text-whitew-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center text-lg sm:text-xl font-bold hover:scale-110 transition z-50"
                         >
                             ✕
                         </button>
